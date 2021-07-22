@@ -20,6 +20,14 @@ body {
     justify-content: space-between;
 }
 
+.navigation{
+    margin-top: 20px;
+}
+
+.menu-container li {
+    list-style: none;
+}
+
 .center-logo {
     text-align: center;
 }
