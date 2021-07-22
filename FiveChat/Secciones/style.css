@@ -32,8 +32,34 @@ body {
     text-align: center;
 }
 
+.center-logo img {
+    width: 13%;
+}
+
+.apps-container {
+    text-align: center;
+    padding: 25px;
+}
+
 .main {
     text-align: center; /* Centrado temporal */
+}
+
+.main-image img{
+    width: 90%;
+}
+
+.sub-title{
+    margin: 25px;
+}
+
+.start-chat{
+    width: 55%;
+    margin: 25px;
+}
+
+.contacto{
+    font-size: 13px;
 }
 
 .footer {
