@@ -16,6 +16,11 @@ body {
     margin: 30px 0;
 }
 
+.html-logo {
+    width: 7%;
+    margin: 20px;
+}
+
 h4 { 
     margin: 20px 0;
 }
@@ -31,5 +36,9 @@ h6 {
 
     .center-logo {
         margin: 25px 0;
+    }
+
+    .html-logo {
+        width: 15%;
     }
 }
