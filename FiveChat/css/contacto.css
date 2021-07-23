@@ -1,0 +1,17 @@
+.iframe-container {
+    text-align: center;
+}
+
+.iframe {
+    width: 90%;
+}
+
+.center-logo{
+    padding: 30px 0;
+}
+
+@media screen and (max-width: 700px) {
+    .iframe {
+        width: 100%;
+    }
+}
